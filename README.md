@@ -28,5 +28,5 @@ Achieved up to 84% accuracy using KNN and SVM models.
 
 ## Usage
 
-Link for the kaggle dataset : [dataset](ttps://www.kaggle.com/datasets/loveall/cervical-cancer-risk-classification)
+Link for the kaggle dataset : [dataset](https://www.kaggle.com/datasets/loveall/cervical-cancer-risk-classification)
 File Name : Cancer-Risk-Factor-Analysis.ipynb
